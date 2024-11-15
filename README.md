@@ -4,3 +4,4 @@
 * If you would rather start exploring Astro with a pre-built Astro site, you can visit https://astro.new and choose a starter template to open and edit in an online editor.
 * [About this Tutorial](https://docs.astro.build/en/tutorial/0-introduction/1/#:~:text=About%20this%20Tutorial,-What%20do%20I)
 * You will also need a [GitHub](https://github.com/) (or similar) account for publishing your project to the web.
+* [Check in: Unit 1 - Setup](https://docs.astro.build/en/tutorial/1-setup/#:~:text=Check%20in%3A%20Unit%201%20%2D%20Setup,-Now%20that%20you)
