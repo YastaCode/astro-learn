@@ -5,3 +5,7 @@
 * [About this Tutorial](https://docs.astro.build/en/tutorial/0-introduction/1/#:~:text=About%20this%20Tutorial,-What%20do%20I)
 * You will also need a [GitHub](https://github.com/) (or similar) account for publishing your project to the web.
 * [Check in: Unit 1 - Setup](https://docs.astro.build/en/tutorial/1-setup/#:~:text=Check%20in%3A%20Unit%201%20%2D%20Setup,-Now%20that%20you)
+* [Prepare your dev environment](https://docs.astro.build/en/tutorial/1-setup/1/#:~:text=Prepare%20your%20dev%20environment,-GET%20READY%20TO)
+
+## Resources
+[FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
