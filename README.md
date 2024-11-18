@@ -9,8 +9,11 @@
 * [Create your first Astro project](https://docs.astro.build/en/tutorial/1-setup/2/#:~:text=Create%20your%20first%20Astro%20project,-GET%20READY%20TO)
 * [Write your first line of Astro](https://docs.astro.build/en/tutorial/1-setup/3/#:~:text=Write%20your%20first%20line%20of%20Astro,-GET%20READY%20TO)
 * [Store your repository online](https://docs.astro.build/en/tutorial/1-setup/4/#:~:text=Store%20your%20repository%20online,-GET%20READY%20TO)
+* [Deployed your site to the web](https://docs.astro.build/en/tutorial/1-setup/5/#:~:text=Deploy%20your%20site%20to%20the%20web,-GET%20READY%20TO)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
 
 [Getting Started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) *external* — a video tutorial for installing, setting up and working with VS Code
+
+[A step-by-step guide to deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) *external*
