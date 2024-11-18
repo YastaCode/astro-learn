@@ -8,6 +8,7 @@
 * [Prepare your dev environment](https://docs.astro.build/en/tutorial/1-setup/1/#:~:text=Prepare%20your%20dev%20environment,-GET%20READY%20TO)
 * [Create your first Astro project](https://docs.astro.build/en/tutorial/1-setup/2/#:~:text=Create%20your%20first%20Astro%20project,-GET%20READY%20TO)
 * [Write your first line of Astro](https://docs.astro.build/en/tutorial/1-setup/3/#:~:text=Write%20your%20first%20line%20of%20Astro,-GET%20READY%20TO)
+* [Store your repository online](https://docs.astro.build/en/tutorial/1-setup/4/#:~:text=Store%20your%20repository%20online,-GET%20READY%20TO)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
