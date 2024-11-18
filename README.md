@@ -11,6 +11,7 @@
 * [Store your repository online](https://docs.astro.build/en/tutorial/1-setup/4/#:~:text=Store%20your%20repository%20online,-GET%20READY%20TO)
 * [Deployed your site to the web](https://docs.astro.build/en/tutorial/1-setup/5/#:~:text=Deploy%20your%20site%20to%20the%20web,-GET%20READY%20TO)
 * [Check in: Unit 2 - Pages](https://docs.astro.build/en/tutorial/2-pages/#:~:text=Check%20in%3A%20Unit%202%20%2D%20Pages,-Now%20that%20you)
+* [Create your first Astro page](https://docs.astro.build/en/tutorial/2-pages/1/#:~:text=Create%20your%20first%20Astro%20page,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -18,3 +19,7 @@
 [Getting Started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) *external* — a video tutorial for installing, setting up and working with VS Code
 
 [A step-by-step guide to deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) *external*
+
+[File-based Routing in Astro](https://docs.astro.build/en/basics/astro-pages/#file-based-routing)
+
+[Astro page HTML](https://docs.astro.build/en/basics/astro-pages/#astro-pages)
