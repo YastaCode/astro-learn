@@ -16,6 +16,7 @@
 * [Add dynamic content about you](https://docs.astro.build/en/tutorial/2-pages/3/#define-and-use-a-variable:~:text=Add%20dynamic%20content%20about%20you,-Now%20that%20you)
 * [Style your About page](https://docs.astro.build/en/tutorial/2-pages/4/#:~:text=Style%20your%20About%20page,-Now%20that%20you)
 * [Add site-wide styling](https://docs.astro.build/en/tutorial/2-pages/5/#:~:text=Add%20site%2Dwide%20styling,-Now%20that%20you)
+* [Check in: Unit 3 - Components](https://docs.astro.build/en/tutorial/3-components/#:~:text=Check%20in%3A%20Unit%203%20%2D%20Components,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
