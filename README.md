@@ -13,6 +13,7 @@
 * [Check in: Unit 2 - Pages](https://docs.astro.build/en/tutorial/2-pages/#:~:text=Check%20in%3A%20Unit%202%20%2D%20Pages,-Now%20that%20you)
 * [Create your first Astro page](https://docs.astro.build/en/tutorial/2-pages/1/#:~:text=Create%20your%20first%20Astro%20page,-Now%20that%20you)
 * [Write your first Markdown blog post](https://docs.astro.build/en/tutorial/2-pages/2/#:~:text=Write%20your%20first%20Markdown%20blog%20post,-Now%20that%20you)
+* [Add dynamic content about you](https://docs.astro.build/en/tutorial/2-pages/3/#define-and-use-a-variable:~:text=Add%20dynamic%20content%20about%20you,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -30,3 +31,5 @@
 [What are browser developer tools? MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) *external*
 
 [YAML frontmatter](https://assemble.io/docs/YAML-front-matter.html) *external*
+
+[Dynamic expressions in Astro](https://docs.astro.build/en/basics/astro-syntax/#jsx-like-expressions)
