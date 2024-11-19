@@ -23,6 +23,7 @@
 * [Create and pass data to a custom blog layout](https://docs.astro.build/en/tutorial/4-layouts/2/#:~:text=Create%20and%20pass%20data%20to%20a%20custom%20blog%20layout,-Now%20that%20you)
 * [Combine layouts to get the best of both worlds](https://docs.astro.build/en/tutorial/4-layouts/3/#:~:text=Combine%20layouts%20to%20get%20the%20best%20of%20both%20worlds,-Now%20that%20you)
 * [Check in: Unit 5 - Astro API](https://docs.astro.build/en/tutorial/5-astro-api/#:~:text=Check%20in%3A%20Unit%205%20%2D%20Astro%20API,-Now%20that%20you)
+* [Create a blog post archive](https://docs.astro.build/en/tutorial/5-astro-api/1/#:~:text=Create%20a%20blog%20post%20archive,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -73,3 +74,5 @@
 [Introduction to YAML](https://dev.to/paulasantamaria/introduction-to-yaml-125f) *external*
 
 [Nesting Layouts in Astro](https://docs.astro.build/en/basics/layouts/#nesting-layouts)
+
+[Astro.glob() API documentation](https://docs.astro.build/en/reference/api-reference/#astroglob)
