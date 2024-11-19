@@ -12,6 +12,7 @@
 * [Deployed your site to the web](https://docs.astro.build/en/tutorial/1-setup/5/#:~:text=Deploy%20your%20site%20to%20the%20web,-GET%20READY%20TO)
 * [Check in: Unit 2 - Pages](https://docs.astro.build/en/tutorial/2-pages/#:~:text=Check%20in%3A%20Unit%202%20%2D%20Pages,-Now%20that%20you)
 * [Create your first Astro page](https://docs.astro.build/en/tutorial/2-pages/1/#:~:text=Create%20your%20first%20Astro%20page,-Now%20that%20you)
+* [Write your first Markdown blog post](https://docs.astro.build/en/tutorial/2-pages/2/#:~:text=Write%20your%20first%20Markdown%20blog%20post,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -23,3 +24,9 @@
 [File-based Routing in Astro](https://docs.astro.build/en/basics/astro-pages/#file-based-routing)
 
 [Astro page HTML](https://docs.astro.build/en/basics/astro-pages/#astro-pages)
+
+[Markdown Cheat Sheet from The Markdown Guide](https://www.markdownguide.org/cheat-sheet/) *external*
+
+[What are browser developer tools? MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) *external*
+
+[YAML frontmatter](https://assemble.io/docs/YAML-front-matter.html) *external*
