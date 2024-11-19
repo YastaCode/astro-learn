@@ -20,6 +20,7 @@
 * [Create a social media footer](https://docs.astro.build/en/tutorial/3-components/2/#:~:text=Create%20a%20social%20media%20footer,-GET%20READY%20TO)
 * [Check in: Unit 4 - Layouts](https://docs.astro.build/en/tutorial/4-layouts/#:~:text=Check%20in%3A%20Unit%204%20%2D%20Layouts,-Now%20that%20you)
 * [Build your first layout](https://docs.astro.build/en/tutorial/4-layouts/1/#:~:text=Build%20your%20first%20layout,-GET%20READY%20TO)
+* [Create and pass data to a custom blog layout](https://docs.astro.build/en/tutorial/4-layouts/2/#:~:text=Create%20and%20pass%20data%20to%20a%20custom%20blog%20layout,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -62,3 +63,9 @@
 [Astro layout components](https://docs.astro.build/en/basics/layouts/)
 
 [Astro &lsaquo;slot /&rsaquo;](https://docs.astro.build/en/basics/astro-components/#slots)
+
+[Markdown Layouts in Astro](https://docs.astro.build/en/guides/markdown-content/#frontmatter-layout-property)
+
+[Markdown Layout Props](https://docs.astro.build/en/basics/layouts/#markdown-layout-props)
+
+[Introduction to YAML](https://dev.to/paulasantamaria/introduction-to-yaml-125f) *external*
