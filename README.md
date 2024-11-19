@@ -42,3 +42,6 @@
 [Astro style tag](https://docs.astro.build/en/guides/styling/#styling-in-astro)
 
 [CSS variables in Astro](https://docs.astro.build/en/guides/styling/#css-variables)
+
+[Astro Component Overview](https://docs.astro.build/en/basics/astro-components/)
+[Refactoring](https://refactoring.com/) *external*
