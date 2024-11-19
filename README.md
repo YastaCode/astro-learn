@@ -18,6 +18,7 @@
 * [Add site-wide styling](https://docs.astro.build/en/tutorial/2-pages/5/#:~:text=Add%20site%2Dwide%20styling,-Now%20that%20you)
 * [Check in: Unit 3 - Components](https://docs.astro.build/en/tutorial/3-components/#:~:text=Check%20in%3A%20Unit%203%20%2D%20Components,-Now%20that%20you)
 * [Create a social media footer](https://docs.astro.build/en/tutorial/3-components/2/#:~:text=Create%20a%20social%20media%20footer,-GET%20READY%20TO)
+* [Check in: Unit 4 - Layouts](https://docs.astro.build/en/tutorial/4-layouts/#:~:text=Check%20in%3A%20Unit%204%20%2D%20Layouts,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
