@@ -21,6 +21,7 @@
 * [Check in: Unit 4 - Layouts](https://docs.astro.build/en/tutorial/4-layouts/#:~:text=Check%20in%3A%20Unit%204%20%2D%20Layouts,-Now%20that%20you)
 * [Build your first layout](https://docs.astro.build/en/tutorial/4-layouts/1/#:~:text=Build%20your%20first%20layout,-GET%20READY%20TO)
 * [Create and pass data to a custom blog layout](https://docs.astro.build/en/tutorial/4-layouts/2/#:~:text=Create%20and%20pass%20data%20to%20a%20custom%20blog%20layout,-Now%20that%20you)
+* [Combine layouts to get the best of both worlds](https://docs.astro.build/en/tutorial/4-layouts/3/#:~:text=Combine%20layouts%20to%20get%20the%20best%20of%20both%20worlds,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -69,3 +70,5 @@
 [Markdown Layout Props](https://docs.astro.build/en/basics/layouts/#markdown-layout-props)
 
 [Introduction to YAML](https://dev.to/paulasantamaria/introduction-to-yaml-125f) *external*
+
+[Nesting Layouts in Astro](https://docs.astro.build/en/basics/layouts/#nesting-layouts)
