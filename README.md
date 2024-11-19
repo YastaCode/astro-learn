@@ -14,6 +14,7 @@
 * [Create your first Astro page](https://docs.astro.build/en/tutorial/2-pages/1/#:~:text=Create%20your%20first%20Astro%20page,-Now%20that%20you)
 * [Write your first Markdown blog post](https://docs.astro.build/en/tutorial/2-pages/2/#:~:text=Write%20your%20first%20Markdown%20blog%20post,-Now%20that%20you)
 * [Add dynamic content about you](https://docs.astro.build/en/tutorial/2-pages/3/#define-and-use-a-variable:~:text=Add%20dynamic%20content%20about%20you,-Now%20that%20you)
+* [Style your About page](https://docs.astro.build/en/tutorial/2-pages/4/#:~:text=Style%20your%20About%20page,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -33,3 +34,9 @@
 [YAML frontmatter](https://assemble.io/docs/YAML-front-matter.html) *external*
 
 [Dynamic expressions in Astro](https://docs.astro.build/en/basics/astro-syntax/#jsx-like-expressions)
+
+[Astro syntax vs JSX - comparison](https://docs.astro.build/en/basics/astro-syntax/#differences-between-astro-and-jsx)
+
+[Astro style tag](https://docs.astro.build/en/guides/styling/#styling-in-astro)
+
+[CSS variables in Astro](https://docs.astro.build/en/guides/styling/#css-variables)
