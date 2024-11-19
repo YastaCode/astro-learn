@@ -54,3 +54,5 @@
 [Semantic HTML Tags](https://www.dofactory.com/html/semantics) *external*
 
 [Mobile-first Design](https://www.mobileapps.com/blog/mobile-first-design) *external*
+
+[Client-side scripts in Astro](https://docs.astro.build/en/guides/client-side-scripts/)
