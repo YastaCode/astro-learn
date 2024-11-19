@@ -48,3 +48,9 @@
 [Refactoring](https://refactoring.com/) *external*
 
 [Component Props in Astro](https://docs.astro.build/en/basics/astro-components/#component-props)
+
+[Component-based Design](https://www.droptica.com/blog/component-based-design/) *external*
+
+[Semantic HTML Tags](https://www.dofactory.com/html/semantics) *external*
+
+[Mobile-first Design](https://www.mobileapps.com/blog/mobile-first-design) *external*
