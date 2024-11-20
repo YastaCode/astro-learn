@@ -84,3 +84,5 @@
 [getStaticPaths() API documentation](https://docs.astro.build/en/reference/api-reference/#getstaticpaths)
 
 [Static Routing in Astro](https://docs.astro.build/en/guides/routing/#static-routes)
+
+[RSS item generation in Astro](https://docs.astro.build/en/guides/rss/#using-glob-imports)
