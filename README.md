@@ -87,3 +87,9 @@
 [Static Routing in Astro](https://docs.astro.build/en/guides/routing/#static-routes)
 
 [RSS item generation in Astro](https://docs.astro.build/en/guides/rss/#using-glob-imports)
+
+[Astro Integrations Guide](https://docs.astro.build/en/guides/integrations-guide/)
+
+[Using UI Framework Components in Astro](https://docs.astro.build/en/guides/framework-components/#using-framework-components)
+
+[Astro client directives reference](https://docs.astro.build/en/reference/directives-reference/#client-directives)
