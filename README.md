@@ -25,6 +25,7 @@
 * [Check in: Unit 5 - Astro API](https://docs.astro.build/en/tutorial/5-astro-api/#:~:text=Check%20in%3A%20Unit%205%20%2D%20Astro%20API,-Now%20that%20you)
 * [Create a blog post archive](https://docs.astro.build/en/tutorial/5-astro-api/1/#:~:text=Create%20a%20blog%20post%20archive,-Now%20that%20you)
 * [Generate tag pages](https://docs.astro.build/en/tutorial/5-astro-api/2/#:~:text=Dynamic%20page%20routing-,Generate%20tag%20pages,-GET%20READY%20TO)
+* [Build a tag index page](https://docs.astro.build/en/tutorial/5-astro-api/3/#:~:text=Build%20a%20tag%20index%20page,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -81,3 +82,5 @@
 [Dynamic Page Routing in Astro](https://docs.astro.build/en/guides/routing/#dynamic-routes)
 
 [getStaticPaths() API documentation](https://docs.astro.build/en/reference/api-reference/#getstaticpaths)
+
+[Static Routing in Astro](https://docs.astro.build/en/guides/routing/#static-routes)
