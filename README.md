@@ -27,6 +27,7 @@
 * [Generate tag pages](https://docs.astro.build/en/tutorial/5-astro-api/2/#:~:text=Dynamic%20page%20routing-,Generate%20tag%20pages,-GET%20READY%20TO)
 * [Build a tag index page](https://docs.astro.build/en/tutorial/5-astro-api/3/#:~:text=Build%20a%20tag%20index%20page,-Now%20that%20you)
 * [Check in: Unit 6 - Astro Islands](https://docs.astro.build/en/tutorial/6-islands/#:~:text=Check%20in%3A%20Unit%206%20%2D%20Astro%20Islands,-Now%20that%20you)
+* [Back on dry land. Take your blog from day to night, no island required!](https://docs.astro.build/en/tutorial/6-islands/2/#:~:text=Back%20on%20dry%20land.%20Take%20your%20blog%20from%20day%20to%20night%2C%20no%20island%20required!,-Now%20that%20you)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -93,3 +94,5 @@
 [Using UI Framework Components in Astro](https://docs.astro.build/en/guides/framework-components/#using-framework-components)
 
 [Astro client directives reference](https://docs.astro.build/en/reference/directives-reference/#client-directives)
+
+[Client-side <script> in Astro](https://docs.astro.build/en/guides/client-side-scripts/)
