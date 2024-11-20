@@ -24,6 +24,7 @@
 * [Combine layouts to get the best of both worlds](https://docs.astro.build/en/tutorial/4-layouts/3/#:~:text=Combine%20layouts%20to%20get%20the%20best%20of%20both%20worlds,-Now%20that%20you)
 * [Check in: Unit 5 - Astro API](https://docs.astro.build/en/tutorial/5-astro-api/#:~:text=Check%20in%3A%20Unit%205%20%2D%20Astro%20API,-Now%20that%20you)
 * [Create a blog post archive](https://docs.astro.build/en/tutorial/5-astro-api/1/#:~:text=Create%20a%20blog%20post%20archive,-Now%20that%20you)
+* [Generate tag pages](https://docs.astro.build/en/tutorial/5-astro-api/2/#:~:text=Dynamic%20page%20routing-,Generate%20tag%20pages,-GET%20READY%20TO)
 
 ## Resources
 [FreeCodeCamp.org](https://freecodecamp.org/) *external* — a free educational site with full courses or quick refreshers in HTML, CSS, JS, and more.
@@ -76,3 +77,7 @@
 [Nesting Layouts in Astro](https://docs.astro.build/en/basics/layouts/#nesting-layouts)
 
 [Astro.glob() API documentation](https://docs.astro.build/en/reference/api-reference/#astroglob)
+
+[Dynamic Page Routing in Astro](https://docs.astro.build/en/guides/routing/#dynamic-routes)
+
+[getStaticPaths() API documentation](https://docs.astro.build/en/reference/api-reference/#getstaticpaths)
